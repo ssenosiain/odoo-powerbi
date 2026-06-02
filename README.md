@@ -8,7 +8,7 @@ Extrae datos de ventas directamente desde Odoo usando su API XML-RPC, los transf
 
 ## Dashboard
 
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Sales_Performance_Dashboard.jpg)
 
 **KPIs visualizados:**
 - Ventas totales y ticket promedio
@@ -72,4 +72,4 @@ Power BI detecta automáticamente `df_pedidos` y `df_lineas` como tablas disponi
 ## Autora
 
 **Sol Senosiain** — Data Analyst  
-[LinkedIn](#) · [Upwork](#) · sol.senosiain@gmail.com
+[LinkedIn](linkedin.com/in/sol-senosiain/) · [Upwork](https://www.upwork.com/freelancers/~018615d93ee0d09011) · sol.senosiain@gmail.com
