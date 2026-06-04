@@ -72,4 +72,4 @@ Power BI detecta automáticamente `df_pedidos` y `df_lineas` como tablas disponi
 ## Autora
 
 **Sol Senosiain** — Data Analyst  
-[LinkedIn](linkedin.com/in/sol-senosiain/) · [Upwork](https://www.upwork.com/freelancers/~018615d93ee0d09011) · sol.senosiain@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sol-senosiain/) · [Upwork](https://www.upwork.com/freelancers/~018615d93ee0d09011) · sol.senosiain@gmail.com
